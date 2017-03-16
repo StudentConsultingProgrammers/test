@@ -11,7 +11,10 @@ public class TestMySQLConnection {
 			"jdbc:mysql://localhost:3306/test2";
 	
 	
-	
+	public TestMySQLConnection(){
+		
+		//en tom konstruktor från scErikL user..
+	}
 	
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
