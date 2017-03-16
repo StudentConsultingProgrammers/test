@@ -11,9 +11,10 @@ public class TestMySQLConnection {
 			"jdbc:mysql://localhost:3306/test2";
 	
 	
-	public TestMySQLConnection(){
+	public TestMySQLConnection(int b){
 		
-		//en tom konstruktor från scErikL user..
+		//en tom konstruktor frï¿½n scErikL user..
+		int a = b;
 	}
 	
 	public static void main(String[] args) throws SQLException {
