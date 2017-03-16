@@ -11,7 +11,7 @@ public class TestMySQLConnection {
 			"jdbc:mysql://localhost:3306/test2";
 	
 	
-	public TestMySQLConnection(){
+	public TestMySQLConnection(String erikVariabel){
 		
 		//en tom konstruktor från scErikL user..
 	}
